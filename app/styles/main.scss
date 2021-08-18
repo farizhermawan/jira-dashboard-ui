@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);
+@import '~@owczar/dashboard-style--airframe/scss/style';
+
+.sidebar-menu__entry--nested .sidebar-menu__entry__link::after {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+}
