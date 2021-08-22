@@ -84,7 +84,6 @@
     "react-grid-layout": "^0.16.6",
     "react-helmet": "^5.2.1",
     "react-hot-loader": "^4.13.0",
-    "react-image-crop": "^8.6.6",
     "react-loading-skeleton": "^2.1.1",
     "react-pulse-dot": "^1.0.3",
     "react-qr-code": "^1.0.5",
